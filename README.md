@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-harshita/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/s-harshita/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-harshita/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614605263~hmac=50115e24aece55e4fd30bab4427231f1" alt="https://www.linkedin.com/in/s-harshita/" height="30" width="40" /></a>
 <a href="https://medium.com/@harshita2216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshita2216" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/691700813239812227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discordapp.com/users/691700813239812227/" height="30" width="40" /></a>
 </p>
